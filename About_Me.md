@@ -3,7 +3,9 @@ permalink: "/aboutme/"
 layout: page
 ---
 
-#### [LinkedIn](https://www.linkedin.com/in/nsb700) , [Email](mailto:nsb700@outlook.com) , Cell: 617-939-7867
+#### LinkedIn: [https://www.linkedin.com/in/nsb700](https://www.linkedin.com/in/nsb700)
+#### Email: [nsb700@outlook.com](mailto:nsb700@outlook.com)
+#### Cell: 617-939-7867
 
 ---
 
