@@ -3,7 +3,6 @@ permalink: "/aboutme/"
 layout: page
 ---
 
-# Niranjan Bhosarekar
 #### [LinkedIn](https://www.linkedin.com/in/nsb700) , [Email](mailto:nsb700@outlook.com) , Cell: 617-939-7867
 
 ## Summary
