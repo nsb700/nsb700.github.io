@@ -1,5 +1,5 @@
 ---
-permalink: "/aboutme/"
+permalink: "/r/"
 layout: page
 ---
 
