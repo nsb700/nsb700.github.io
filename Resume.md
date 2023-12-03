@@ -1,5 +1,5 @@
 ---
-permalink: "/r/"
+permalink: "/resume/"
 layout: page
 ---
 
