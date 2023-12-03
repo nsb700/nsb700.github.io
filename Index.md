@@ -1,6 +1,7 @@
 ---
 permalink: "/index/"
-layout: page
+layout: default
+title: "Home"
 ---
 
 # Project Samples
