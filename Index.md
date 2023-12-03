@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# Project Samples
+### Project Samples
 
 #### [Language model web app](https://github.com/nsb700/nlp-medical-charts)
 #### [Association mining web app](https://github.com/nsb700/association-mining-webapp)
