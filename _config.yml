@@ -1,4 +1,4 @@
-title: "Niranjan Bhosarekar"
+title: "Niranjan Bhosarekar [https://www.linkedin.com/in/nsb700](https://www.linkedin.com/in/nsb700), [nsb700@outlook.com](mailto:nsb700@outlook.com), 617-939-7867"
 author: "Niranjan Bhosarekar"
 description: "AI, Machine Learning, Data Science, Business Intelligence"
 permalink: /:title/
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  #- {file: "About_Me.md", title: 'About Me'}
-  #- {file: "blog.html", title: 'Blog'}
+  - {file: "About_Me.md", title: 'About Me'}
+  - {file: "blog.html", title: 'Blog'}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nsb700@outlook.com"}
