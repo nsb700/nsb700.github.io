@@ -5,12 +5,16 @@ layout: page
 
 #### [LinkedIn](https://www.linkedin.com/in/nsb700) , [Email](mailto:nsb700@outlook.com) , Cell: 617-939-7867
 
+---
+
 ## Summary
 
  - Data scientist skilled in Statistics, Machine Learning, Natural Language Processing and Deep Learning.
  - Strong proficiency in building and leveraging statistical and mathematical models to solve business problems.
  - Enhancing ROI by 40%, generating over $1M in yearly savings and reducing manual effort hours by up to 75%.
  - Exceptional collaboration with business stakeholders, managing agile projects, and ensuring on-time delivery.
+
+---
 
 ## Experience
 
@@ -47,6 +51,8 @@ statistical indexing, predictive modeling, data association mining, fraud detect
  - Analyzed and tested movie and TV show datasets in 131 markets for precise content recommendations.
  - Utilized Hadoop and Mahout for collaborative filtering systems, personalizing content suggestions.
 
+---
+
 ## Education
 
 ### Master of Science in Computer Science (GPA: 3.71)
@@ -58,11 +64,15 @@ statistical indexing, predictive modeling, data association mining, fraud detect
 #### Savitribai Phule Pune University, India
 #### August 2006
 
+---
+
 ## Skills
 Python, SQL, Git, PySpark, Databricks, Hadoop, FastApi, Fast.ai, Keras, 
 PyTorch, Jupyter, Time-series Forecasting, Recommendation Systems, Association Mining, 
 Hugging Face Transformers, Encoders, Decoders, Embedding Vectors, 
 AWS Cloud Practitioner Essentials, Azure, PowerBI
+
+---
 
 ## Publication
 
