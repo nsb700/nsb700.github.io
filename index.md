@@ -3,6 +3,8 @@ layout: page
 title: "Programming Samples"
 ---
 
+#### [Web Application for NLP on AWS using SentenceTransformers and WordCloud](https://github.com/nsb700/mci-nlp-aws-webapp)
+#### [Multiprocessing for NLP using SentenceTransformers and WordCloud](https://github.com/nsb700/mci-nlp-multiprocessing)
 #### [NLP Hugging Face transformer model web app](https://github.com/nsb700/nlp-medical-charts)
 #### [Association mining web app](https://github.com/nsb700/association-mining-webapp)
 #### [Databricks PySpark association mining](https://github.com/nsb700/association-mining-databricks/blob/main/association_mining.ipynb)
